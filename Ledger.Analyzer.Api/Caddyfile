@@ -1,0 +1,4 @@
+ledger-analyzer.test {
+	reverse_proxy localhost:5146
+	tls internal
+}
