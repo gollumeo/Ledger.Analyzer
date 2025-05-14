@@ -19,3 +19,6 @@ app.MapGet("/", () => "Hello World!");
 app.MapControllers();
 
 app.Run();
+
+public abstract partial class Program
+{}
